@@ -57,7 +57,17 @@ print('Dimensiones de X_test:', X_test.shape)
 print('Dimensiones de y_train:', y_train.shape)
 print('Dimensiones de y_test:', y_test.shape)
 
+# tengo que Normalizar los datos, para que los valores muy grandes no me "dominen el modelado".
+# Por ej, puedo normalizar por desviacion estándar
+
+
+
+
 # ...
+
+
+
+
 
 # Paso 4: Armar el modelo de Regresión múltiple ->
 
